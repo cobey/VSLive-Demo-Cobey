@@ -13,7 +13,7 @@
       "spacing": "medium",
       "size": "default",
       "weight": "bolder",
-      "text": "Welcome to Cody Framework!",
+      "text": "Welcome to Cody Framework",
       "wrap": true,
       "maxLines": 0
     },
