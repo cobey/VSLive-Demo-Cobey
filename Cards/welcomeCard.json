@@ -19,7 +19,7 @@
         {
             "type": "TextBlock",
             "size": "default",
-            "text": "What can I help you with?",
+            "text": "How can I help you? You can see things such as \"what is the weather\" or \"I'd like to report some weather\"",
             "wrap": true
         }
     ]
